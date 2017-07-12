@@ -3,3 +3,10 @@ main: re\Main
 version: 1.0v
 api: 3.0.0
 author: Groupluginer
+commands:
+  ef:
+     description: Random Effect
+  ab:
+     description: Random Effect
+  Ra:
+     description: Random effect
